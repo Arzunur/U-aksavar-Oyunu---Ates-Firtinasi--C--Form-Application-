@@ -1,0 +1,112 @@
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\bin\x64\Debug\Savas.Desktop.exe.config
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\bin\x64\Debug\Savas.Desktop.exe
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\bin\x64\Debug\Savas.Desktop.pdb
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.Arayuz.resources
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.gif.resources
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.login.resources
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.nasıloynanır.resources
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.Properties.Resources.resources
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.exe
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.pdb
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.sifremiunuttum.resources
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.level1.resources
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\bin\x64\Debug\Savas.Library.dll
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\bin\x64\Debug\Savas.Library.pdb
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.CopyComplete
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.bizeulasin.resources
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.hakkimizda.resources
+C:\Users\asus\Desktop\SAVAS\Savas.Desktop\obj\x64\Debug\Savas.Desktop.l2.resources
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\bin\x64\Debug\Savas.Desktop.exe.config
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\bin\x64\Debug\Savas.Desktop.exe
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\bin\x64\Debug\Savas.Desktop.pdb
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\bin\x64\Debug\Savas.Library.dll
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\bin\x64\Debug\Savas.Library.pdb
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.Arayuz.resources
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.bizeulasin.resources
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.gif.resources
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.hakkimizda.resources
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.l2.resources
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.level1.resources
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.login.resources
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.nasıloynanır.resources
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.Properties.Resources.resources
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.sifremiunuttum.resources
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.CopyComplete
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.exe
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.pdb
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.Admin.resources
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.admingiris.resources
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.Admin.resources
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.admingiris.resources
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.Arayuz.resources
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.bizeulasin.resources
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.gif.resources
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.hakkimizda.resources
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.l2.resources
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.level1.resources
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.login.resources
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.nasıloynanır.resources
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.Properties.Resources.resources
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.sifremiunuttum.resources
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.exe
+C:\Users\asus\Desktop\SAVAS - Kopya - Kopya\Savas.Desktop\obj\x64\Debug\Savas.Desktop.pdb
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\bin\x64\Debug\Savas.Desktop.exe.config
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\bin\x64\Debug\Savas.Desktop.exe
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\bin\x64\Debug\Savas.Desktop.pdb
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\bin\x64\Debug\Savas.Library.dll
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\bin\x64\Debug\Savas.Library.pdb
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.Admin.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.admingiris.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.Arayuz.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.bizeulasin.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.gif.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.hakkimizda.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.l2.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.level1.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.login.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.nasıloynanır.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.Properties.Resources.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.sifremiunuttum.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.CopyComplete
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.exe
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.pdb
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\bin\x64\Debug\Savas.Desktop.exe.config
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\bin\x64\Debug\Savas.Desktop.exe
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\bin\x64\Debug\Savas.Desktop.pdb
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\bin\x64\Debug\Savas.Library.dll
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\bin\x64\Debug\Savas.Library.pdb
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.Admin.resources
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.admingiris.resources
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.Arayuz.resources
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.bizeulasin.resources
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.gif.resources
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.hakkimizda.resources
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.l2.resources
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.level1.resources
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.login.resources
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.nasıloynanır.resources
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.Properties.Resources.resources
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.sifremiunuttum.resources
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.GenerateResource.cache
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.csproj.CopyComplete
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.exe
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Desktop\obj\x64\Debug\Savas.Desktop.pdb

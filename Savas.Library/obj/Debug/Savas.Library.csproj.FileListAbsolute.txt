@@ -1,0 +1,36 @@
+C:\Users\asus\Desktop\SAVAS\Savas.Library\bin\Debug\Savas.Library.dll
+C:\Users\asus\Desktop\SAVAS\Savas.Library\bin\Debug\Savas.Library.pdb
+C:\Users\asus\Desktop\SAVAS\Savas.Library\obj\Debug\Savas.Library.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\SAVAS\Savas.Library\obj\Debug\Savas.Library.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\SAVAS\Savas.Library\obj\Debug\Savas.Library.dll
+C:\Users\asus\Desktop\SAVAS\Savas.Library\obj\Debug\Savas.Library.pdb
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Library\obj\Debug\Savas.Library.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Library\obj\Debug\Savas.Library.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Library\obj\Debug\Savas.Library.dll
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Library\obj\Debug\Savas.Library.pdb
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Library\bin\Debug\Savas.Library.dll
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Library\bin\Debug\Savas.Library.pdb
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Library\obj\Debug\Savas.Library.Concrete.l3.resources
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Library\obj\Debug\Savas.Library.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Library\obj\Debug\Savas.Library.Concrete.kullaniciskor.resources
+C:\Users\asus\Desktop\SAVAS - Kopya\Savas.Library\obj\Debug\Savas.Library.Properties.Resources.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Library\bin\Debug\Savas.Library.dll
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Library\bin\Debug\Savas.Library.pdb
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.Concrete.kullaniciskor.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.Concrete.l3.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.Properties.Resources.resources
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.dll
+C:\Users\asus\Desktop\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.pdb
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Library\bin\Debug\Savas.Library.dll
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Library\bin\Debug\Savas.Library.pdb
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.Concrete.kullaniciskor.resources
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.Concrete.l3.resources
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.Properties.Resources.resources
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.csproj.GenerateResource.cache
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.dll
+C:\Users\asus\Documents\GitHub\Projects\Ates Fırtınası- Savas Oyunu\Savas.Library\obj\Debug\Savas.Library.pdb
